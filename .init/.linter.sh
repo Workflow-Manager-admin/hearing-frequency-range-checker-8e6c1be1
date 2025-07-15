@@ -1,0 +1,4 @@
+#!/bin/bash
+cd /home/kavia/workspace/code-generation/hearing-frequency-range-checker-8e6c1be1/app_frontend
+flutter analyze
+
